@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Snehashish06/Snehashish06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Bots, Linux
 - ⚡ Fun fact: What are you doing here?
--->
+
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
 
 <p align="center">
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <summary>Contact me </summary>
  
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Me
-[My personal account](https://t.me/U2ME_14344)
+<p><a href="https://t.me/U2ME_14344"><img src="https://telegra.ph/file/78c11b21dcdc65182eae0.jpg" alt="Press to Takeoff" width="100px"></a></p>
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40The_Arc_Music&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/The_Arc_Music)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40The_ARC_Network&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/The_Arc_Network)
 </details>
