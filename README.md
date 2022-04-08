@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p> 
 
 <details>
-<summary>Contact me </details>
+<summary>Contact me </summary>
  
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Me
 
