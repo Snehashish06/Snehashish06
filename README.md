@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <details>
 <summary>Contact me </details>
-<p align="center"><a href="https://t.me/The_Arc_Music"><img src="https://telegra.ph/file/50c21b237d00309571e00.jpg" width="2000"></a></p>
-</details>
  
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Me
 
