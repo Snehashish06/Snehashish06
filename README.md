@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my bot [Scenario](https://t.me/SHB_MOD_BOT) it's a telegram bot.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python
 - 💬 Ask me about Bots, Linux
 - ⚡ Fun fact: What are you doing here?
 
