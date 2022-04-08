@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my bot [Scenario](https://t.me/SHB_MOD_BOT) it's a telegram bot.
-- 🌱 I’m currently learning Java and Python
 - 💬 Ask me about Bots, Linux
-- ⚡ Fun fact: What are you doing here?
+- ⚡ Fun fact: you wasted your 1 minute 👀
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
 
