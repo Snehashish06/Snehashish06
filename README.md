@@ -5,12 +5,25 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my bot [Scenario](https://t.me/SHB_MOD_BOT) it's a telegram bot.
+- 🌱 I’m currently learning Java
+- 💬 Ask me about Bots, Linux
+- ⚡ Fun fact: What are you doing here?
 -->
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFC0CB&width=420&lines=Passionate+Developers+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+</p> 
+
+<details>
+<summary>Contact me </details>
+<p align="center"><a href="https://t.me/The_Arc_Music"><img src="https://telegra.ph/file/50c21b237d00309571e00.jpg" width="2000"></a></p>
+</details>
+ 
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Me
+
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40The_Arc_Network&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/The_Arc_Music)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Arc&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Network&longCache=true%22)](https://t.me/The_Arc_Music)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40The_ARC_Network&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/The_Arc_Network)
+  
