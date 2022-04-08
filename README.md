@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-<!-- **Snehashish06/Snehashish06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my bot [Scenario](https://t.me/SHB_MOD_BOT) it's a telegram bot.
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Bots, Linux
