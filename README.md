@@ -4,7 +4,7 @@
 
 - 💬 Ask me about Bots, Linux
 
-- ⚡ Fun fact: you wasted your 1 minute 👀
+- ⚡ Fun fact: None cares
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
 
