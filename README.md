@@ -12,7 +12,7 @@
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&width=420&lines=Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&width=420&lines=Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p> 
 
 <details>
