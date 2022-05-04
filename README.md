@@ -23,7 +23,7 @@
 </details>
 <details>
 <summary>GitHub stats 👀</summary>
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=Snehashish06&tc=333&ic=333)
+[![Github Stats](https://github-stats-alpha.vercel.app/api/?username=Snehashish06&tc=333&ic=333)
 </details>
 <details> 
 <summary>Top Languages 💌</summary>
