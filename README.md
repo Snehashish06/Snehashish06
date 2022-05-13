@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my bot [Scenario](https://t.me/shb_moderator_bot) it's a telegram bot.
+- 🔭 I’m currently working on my bot [Scenario](https://t.me/ScenarioXbot) it's a telegram bot.
 
 - 💬 Ask me about Bots, Linux
 
