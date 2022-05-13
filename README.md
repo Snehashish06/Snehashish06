@@ -35,7 +35,7 @@
 </details>
 
 ### Statistics
-<p align="center"><a href="https://github.com/Snehashish06"><img src="https://github-readme-stats.vercel.app/api?username=Snehashish0 &show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Snehashish06"><img src="https://github-readme-stats.vercel.app/api?username=Snehashish06&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Snehashish06"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehashish06&theme=radical&layout=compact"></a></p> 
 
 
