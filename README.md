@@ -61,5 +61,6 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
 </details>
 <details>
+<summary>Full info</summary>
 ![Full information](https://github-finder-stark.vercel.app/?username=Snehashish06)
 </details>
