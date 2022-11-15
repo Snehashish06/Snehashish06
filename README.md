@@ -14,7 +14,7 @@
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&width=420&lines=Passionate+Developer+From+India;Python%2C+Linux%2C+Html">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&width=420&lines=Passionate+Developer+From+India;Python%2C+Linux%2C+Java">
 </p> 
 
 <details>
