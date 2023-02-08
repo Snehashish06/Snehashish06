@@ -59,7 +59,7 @@ if __name__ == '__main__':
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
 
 ### Current Streak
-<h1> <img align = "middle" src = "https://github-readme-streak-stats.herokuapp.com/?user=Snehashish06" /></h1>
+<img align = "middle" src = "https://github-readme-streak-stats.herokuapp.com/?user=Snehashish06" />
 
 ### Most used languages
 <p align="center"><a href="https://github.com/Snehashish06"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehashish06&theme=radical&layout=compact"></a></p> 
