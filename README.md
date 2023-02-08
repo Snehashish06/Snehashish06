@@ -50,7 +50,7 @@ if __name__ == '__main__':
 ```
 
 <h1> Statistics </h1>
-### GitHub Activity
+<h3> GitHub Activity </h3>
 
 ![Metrics](https://metrics.lecoq.io/Snehashish06?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
 
