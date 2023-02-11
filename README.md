@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Snehashish+Biswas!;I'm+a+new+developer...;I+love+to+code;Thanks+for+visiting++my+profile%E2%9D%A4%EF%B8%8F)](https://github.com/Snehashish06)
 
-<h1> <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="90px"> About Me <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" </h1>
+<h1> <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/cat_gif.gif" width="90px"> About Me <img src = "https://github.com/Snehashish06/Snehashish06/blob/main/res/cat1.gif" width="90px"> </h1>
 
 ```python3
 class Snehashish():
