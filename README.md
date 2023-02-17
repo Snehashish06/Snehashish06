@@ -41,7 +41,7 @@ class Snehashish():
 
     def windows_os(self):
         return [
-            "Windows 11"
+            "Windows 11 Pro"
         ]
 
 if __name__ == '__main__':
