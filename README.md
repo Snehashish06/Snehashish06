@@ -20,7 +20,7 @@ class Snehashish():
 
     def programming_languages(self):
         return (
-            "Python", "Java", "CPP",  "SQL"
+            "Python", "Java", "C", "CPP",  "SQL"
         )
         
     def markup_languages(self):
