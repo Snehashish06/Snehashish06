@@ -19,7 +19,7 @@ class Snehashish():
         self.language = ["हिंदी", "English", "বাংলা"]
 
     def programming_languages(self):
-        return ]
+        return [
             "Python", "Java", "C", "CPP",  "SQL"
         ]
         
