@@ -19,30 +19,27 @@ class Snehashish():
         self.language = ["हिंदी", "English", "বাংলা"]
 
     def programming_languages(self):
-        return (
+        return ]
             "Python", "Java", "C", "CPP",  "SQL"
-        )
+        ]
         
     def markup_languages(self):
-        return (
+        return ]
             'HTML'
-      )
+      ]
  
     def developer_tools(self):
         return [
             "GitHub", "Git", "GitLab", "MongoDB",
-            "Stack Overflow", "Heroku", "PyDroid"
+            "Stack Overflow", "Heroku", "PyDroid", "Visual studio insiders" , "MySql", "Workbench"
         ]
 
     def os(self):
-        return [
-            "Android"
-        ]
-
-    def windows_os(self):
-        return [
-            "Windows 11 Pro"
-        ]
+        return {
+            "Desktop": ["Windows 11 Pro X LITE", {"Linux": ["Garuda KDE Dr460nized", "Garuda Wayfire"]}]
+            "Smart Phone": [{"Android": ["EvolutionX", "Project Elixir", "Miui", "Ancient Os", "Pixel experience", "CrDroid"]}]
+        }
+ 
 
 if __name__ == '__main__':
     myself = Snehashish()
