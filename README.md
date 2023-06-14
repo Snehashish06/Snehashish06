@@ -36,8 +36,10 @@ class Snehashish():
 
     def os(self):
         return {
-            "Desktop": ["Windows 11 Pro X LITE", {"Linux": ["Garuda KDE Dr460nized", "Garuda Wayfire"]}]
-            "Smart Phone": [{"Android": ["EvolutionX", "Project Elixir", "Miui", "Ancient Os", "Pixel experience", "CrDroid"]}]
+            "Desktop": ["Windows 11 Pro X LITE", 
+                        {"Linux": ["Garuda KDE Dr460nized", "Garuda Wayfire"]}],
+            "Smart Phone": [
+                    {"Android": ["EvolutionX", "Project Elixir", "Miui", "Ancient Os", "Pixel experience", "CrDroid"]}]
         }
  
 
