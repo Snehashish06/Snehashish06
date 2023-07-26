@@ -1,7 +1,8 @@
-<h2>Hey there Snehashish Biswas this side!<h2>
+<h1><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/1ktC.gif" width="190px"><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/3BBS.gif" width="190px"></h1>
+<h2>Hey there Snehashish Biswas this side! <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/XDZT.gif" width="30px"><h2>
 
 <p align="center">
-    <b>Visitors Count</b><br>
+    <b>Visitors Count <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/Z30J.gif" width="20px"></b><br>
     <img align="middle" src="https://profile-counter.glitch.me/Snehashish06/count.svg" />
 </p>
 
@@ -22,7 +23,18 @@ class Snehashish():
         return [
             "Python", "Java", "C", "CPP",  "SQL"
         ]
-        
+
+    def databases(self):
+        return [
+            "SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Redis",
+            "MariaDB",
+            "SQLite",
+            "MongoDB"
+      ]
+
     def markup_languages(self):
         return [
             'HTML'
@@ -48,7 +60,7 @@ if __name__ == '__main__':
     print(f"{myself.name} is here!")
 ```
 
-<h1> Statistics </h1>
+<h1><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/7VB.gif" width="80px">Statistics <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/7VB.gif" width="80px"></h1>
 <h3> GitHub Activity </h3>
 
 ![Metrics](https://metrics.lecoq.io/Snehashish06?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
