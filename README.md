@@ -1,5 +1,9 @@
 <h1><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/1ktC.gif" width="190px"><img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/3BBS.gif" width="190px"></h1>
 <h2>Hey there Snehashish Biswas this side! <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/XDZT.gif" width="30px"><h2>
+    
+----
+<h1>⚡ Like the thunder in the sky ⚡</h1>
+----
 
 <p align="center">
     <b>Visitors Count <img src="https://github.com/Snehashish06/Snehashish06/blob/main/res/Z30J.gif" width="20px"></b><br>
