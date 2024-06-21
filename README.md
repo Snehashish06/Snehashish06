@@ -25,7 +25,7 @@ class Snehashish():
 
     def programming_languages(self):
         return [
-            "Python", "Java", "C", "CPP",  "SQL"
+            "Python", "Rust", "Go", "CPP",  "SQL"
         ]
 
     def databases(self):
@@ -55,7 +55,7 @@ class Snehashish():
             "Desktop": ["Windows 11 Pro X LITE", 
                         {"Linux": ["Garuda KDE Dr460nized", "Garuda Wayfire"]}],
             "Smart Phone": [
-                    {"Android": ["EvolutionX", "Project Elixir", "Miui", "Ancient Os", "Pixel experience", "CrDroid"]}]
+                    {"Android": ["EvolutionX", "Project Elixir", "Miui", "Ancient Os", "Pixel experience", "CrDroid", "FunTouch", "ColorOs"]}]
         }
  
 
