@@ -25,7 +25,7 @@ class Snehashish():
 
     def programming_languages(self):
         return [
-            "Python", "Rust", "Go", "CPP",  "SQL"
+            "Python", "Go", "CPP",  "SQL"
         ]
 
     def databases(self):
